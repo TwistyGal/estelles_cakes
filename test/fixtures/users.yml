@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  cake_quantity: 1
+  flavor: MyString
+  price: 9.99
+  total_cost: 9.99
+  special_request: MyText
+  date_needed: 2014-04-29
+  date_ordered: 2014-04-29 11:01:45
+
+two:
+  first_name: MyString
+  last_name: MyString
+  cake_quantity: 1
+  flavor: MyString
+  price: 9.99
+  total_cost: 9.99
+  special_request: MyText
+  date_needed: 2014-04-29
+  date_ordered: 2014-04-29 11:01:45
